@@ -1,0 +1,15 @@
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\bin\Debug\net6.0\BattleGame.exe
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\bin\Debug\net6.0\BattleGame.deps.json
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\bin\Debug\net6.0\BattleGame.runtimeconfig.json
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\bin\Debug\net6.0\BattleGame.dll
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\bin\Debug\net6.0\BattleGame.pdb
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\BattleGame.csproj.AssemblyReference.cache
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\BattleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\BattleGame.AssemblyInfoInputs.cache
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\BattleGame.AssemblyInfo.cs
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\BattleGame.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\BattleGame.dll
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\refint\BattleGame.dll
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\BattleGame.pdb
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\BattleGame.genruntimeconfig.cache
+C:\Users\jovan\Desktop\jace\C#\BattleGame\BattleGame\obj\Debug\net6.0\ref\BattleGame.dll
